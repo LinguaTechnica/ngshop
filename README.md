@@ -1,4 +1,4 @@
-# Angular Shop
+# Angular Dog Shop
 
 This exercise has two parts:
 
@@ -64,3 +64,13 @@ With this configured, JSON files can be imported as follows: `import jsonName fr
 - add a feature to notify users if a dog on their list has been liked.
 - if a user has a dog on favorites list and they click the heart again, it should remove the dog from favorites
 - no duplicate favorites
+
+
+## Angular Version Updates
+
+- [Official LTS Releases](https://angular.io/guide/releases)
+- [How to Update Angular](https://update.angular.io)
+
+To upgrade this project:
+- `ng update @angular/core@9 @angular/cli@9` where 9 == to the major version you need
+- `npm install`
